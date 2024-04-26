@@ -1,4 +1,4 @@
-```markdown
+
 ## Movix - TMDB Movie Database Project
 
 ### Overview
@@ -71,4 +71,3 @@ This will start the development server and open the project in your default web 
 ### License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
