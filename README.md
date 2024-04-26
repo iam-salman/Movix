@@ -11,14 +11,14 @@ Before running the project, ensure you have the following:
 
 -   Node.js installed on your machine
 -   An internet connection to fetch data from the TMDB API
--   An API key from TMDB
+-   A TOKEN key from TMDB
 
 ### Installation
 
 1. Clone the repository to your local machine:
 ```
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/salmanahmed-chd/Movix.git
 
 ```
 
@@ -26,7 +26,7 @@ git clone https://github.com/your-username/your-repo.git
 
 ```
 
-cd your-repo
+cd Movix
 
 ```
 
@@ -44,11 +44,11 @@ npm install
 
 ```
 
-VITE_APP_TMDB_TOKEN=YOUR_API_KEY
+VITE_APP_TMDB_TOKEN=YOUR_TOKEN
 
 ```
 
-Replace `YOUR_API_KEY` with the API key you obtained from the TMDB website.
+Replace `YOUR_TOKEN` with the TOKEN key you obtained from the TMDB website.
 
 ### Usage
 
